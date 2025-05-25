@@ -1,40 +1,40 @@
-# FrontEnd Study Repository
+# Frontend Study Repository
 
-This repository is dedicated to storing my exercises and study projects focused on frontend development technologies such as **HTML, CSS, JavaScript, React, Vite, Tailwind, and Others**. These projects reflect what I have learned through classroom lessons, practical exercises, and online courses, helping me strengthen my skills in building websites and interactive applications.
+This repository is dedicated to storing practical exercises and study projects focused on **Frontend Development**. The goal is to deepen knowledge in HTML, CSS, JavaScript, frameworks, and responsive design through coursework, online learning, and hands-on practice.
 
 ## Repository Structure
 
-- **exercises/**: Contains exercises to reinforce fundamental frontend concepts.
-- **projects/**: Includes practical projects that apply more advanced frontend concepts.
+- **exercises/**: Contains exercises to reinforce fundamental frontend concepts such as HTML structure, CSS styling, and JavaScript basics.
+- **projects/**: Includes applied projects involving building responsive layouts, interactive UI components, and integrating frontend frameworks.
 
 ## Repository Rules
 
-- **Content:** Only include exercises and projects for study purposes. Do not add personal or commercial tasks.
-- **Organization:** Maintain a clear and consistent folder structure with separate directories.
-- **Code Quality:** Follow coding standards and add comments where necessary.
-- **History and Versioning:** Use clear commit messages and create branches for new features or additions.
-- **Testing:** Include and run tests whenever applicable.
-- **Security:** Do not include sensitive data. Use a proper `.gitignore` configuration.
-- **Collaboration:** Follow the contribution policy and review code as needed.
-- **Documentation:** Keep the `README.md` up to date, and provide helpful examples and tips when appropriate.
+- Only include exercises and projects aimed at learning and practicing frontend development. Personal or commercial content is not allowed.
+- Maintain a clear and consistent folder structure with separate directories for exercises and projects.
+- Follow best practices in coding standards, accessibility, and responsive design. Ensure code is clean, efficient, and well-commented when needed.
+- Use descriptive commit messages and create branches for new features or significant changes.
+- Provide tests or instructions to verify UI behavior and responsiveness whenever applicable.
+- Do not commit sensitive information such as API keys or credentials.
+- Adhere to the contribution guidelines and review changes submitted by others.
+- Keep this README and any related documentation up to date with examples and helpful explanations.
 
 ## What Is Prohibited
 
-- **Sensitive Information:** Never include personal data, passwords, API keys, or any confidential information in the repository.
-- **Third-Party Code:** Do not add code that is not your own or not properly licensed. If using third-party code, ensure proper attribution and that the license allows usage.
-- **Unrelated Changes:** Avoid adding tasks or projects unrelated to the goal of studying and practicing frontend technologies listed above.
-- **Unnecessary Files:** Do not include temporary files, IDE-specific configurations, or files unrelated to the project’s functionality.
-- **Malicious or Inappropriate Code:** Do not add any code that is harmful, offensive, or that compromises the integrity and security of the repository.
-- **Undocumented Changes:** Significant changes must be documented properly in commits and, when needed, in the `README.md`.
+- Including any sensitive information (API keys, credentials, personal data).
+- Adding third-party code without proper licensing and attribution.
+- Committing irrelevant files or changes unrelated to frontend development study.
+- Adding temporary, build, or IDE-specific files.
+- Introducing malicious or inappropriate code.
+- Making undocumented significant changes.
 
 ## How to Contribute
 
-- Fork this repository.
-- Create a new branch (`git checkout -b new-branch`).
-- Make your changes and commit them (`git commit -am 'Description of the change'`).
-- Push the branch (`git push origin new-branch`).
-- Open a Pull Request.
+- Fork the repository.
+- Create a new branch (`git checkout -b your-branch-name`).
+- Make your changes and commit with clear, descriptive messages.
+- Push your branch (`git push origin your-branch-name`).
+- Open a Pull Request for review.
 
 ## Contact
 
-For any questions or suggestions, feel free to send me a direct message.
+For any questions or suggestions, please reach out directly.
