@@ -1,6 +1,6 @@
 # FrontEnd Study Repository
 
-This repository is dedicated to storing my exercises and study projects focused on frontend development technologies such as **HTML, CSS, JavaScript, React, Vite, Tailwind and Others**. These projects reflect what I have learned through classroom lessons, practical exercises, and online courses, helping me strengthen my skills in building websites and interactive applications.
+This repository is dedicated to storing my exercises and study projects focused on frontend development technologies such as **HTML, CSS, JavaScript, React, Vite, Tailwind, and Others**. These projects reflect what I have learned through classroom lessons, practical exercises, and online courses, helping me strengthen my skills in building websites and interactive applications.
 
 ## Repository Structure
 
@@ -29,11 +29,11 @@ This repository is dedicated to storing my exercises and study projects focused 
 
 ## How to Contribute
 
-1. Fork this repository.
-2. Create a new branch (`git checkout -b new-branch`).
-3. Make your changes and commit them (`git commit -am 'Description of the change'`).
-4. Push the branch (`git push origin new-branch`).
-5. Open a Pull Request.
+- Fork this repository.
+- Create a new branch (`git checkout -b new-branch`).
+- Make your changes and commit them (`git commit -am 'Description of the change'`).
+- Push the branch (`git push origin new-branch`).
+- Open a Pull Request.
 
 ## Contact
 
