@@ -1,6 +1,6 @@
 # Frontend Study Repository
 
-This repository is dedicated to storing practical exercises and study projects focused on **Frontend Development**. The goal is to deepen knowledge in **HTML, CSS, JavaScript, frameworks, and responsive design** through coursework, online learning, and hands-on practice.
+This repository is dedicated to storing practical exercises and study projects focused on **Frontend Development**. The goal is to deepen knowledge in HTML, CSS, JavaScript, frameworks, and responsive design through coursework, online learning, and hands-on practice.
 
 ## Repository Structure
 
